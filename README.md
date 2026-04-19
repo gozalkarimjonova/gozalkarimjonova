@@ -1,16 +1,25 @@
-## Hi there 👋
+   # Hi, I'm Gozal! 👋
 
-<!--
-**gozalkarimjonova/gozalkarimjonova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+I am currently taking my first steps into the world of programming and studying Frontend Development. Under the guidance of my mentor, I am learning modern web technologies and strengthening my skills through hands-on projects.
 
-Here are some ideas to get you started:
+- 🎓 Current Status: Student 
+- 📚 Learning: HTML5, CSS3, and JavaScript basics
+- 🎯 Goal: To become a proficient Frontend Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 My Skills (Learning Path)
+* 🌐 Web: HTML, CSS
+* ⌨️ Programming: JavaScript (Basics)
+* 🔧 Tools: Git, GitHub, VS Code
+
+---
+
+### 📫 Connect with me
+* 📍 Location: Tashkent, Uzbekistan
+* 📸 Instagram: https://www.instagram.com/
+* 📧 Email: gozalkarimonova4@gmail.com
+
+---
+
