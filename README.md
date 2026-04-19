@@ -18,7 +18,7 @@ I am currently taking my first steps into the world of programming and studying 
 
 ### 📫 Connect with me
 * 📍 Location: Tashkent, Uzbekistan
-* 📸 Instagram: https://www.instagram.com/ @I.gozall
+* 📸 Instagram: [instagram.com/I.gozall](https://instagram.com/I.gozall)
 * 📧 Email: gozalkarimonova4@gmail.com
 
 ---
