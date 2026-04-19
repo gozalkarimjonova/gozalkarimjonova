@@ -1,4 +1,4 @@
-   # Hi, I'm Gozal! 👋
+    # Hi, I'm Gozal! 👋
 
 ### 🚀 About Me
 I am currently taking my first steps into the world of programming and studying Frontend Development. Under the guidance of my mentor, I am learning modern web technologies and strengthening my skills through hands-on projects.
@@ -22,7 +22,4 @@ I am currently taking my first steps into the world of programming and studying 
 * 📧 Email: gozalkarimonova4@gmail.com
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gozalkarimjonova&show_icons=true&theme=nord&hide_border=true)
-
-![Gozal's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gozalkarimjonova&theme=react-dark&hide_border=true)
+![Snake animation](https://raw.githubusercontent.com/gozalkarimjonova/gozalkarimjonova/output/github-contribution-grid-snake.svg)
