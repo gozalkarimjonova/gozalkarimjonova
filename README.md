@@ -23,3 +23,4 @@ I am currently taking my first steps into the world of programming and studying 
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gozalkarimjonova&show_icons=true&theme=nord&hide_border=true)
